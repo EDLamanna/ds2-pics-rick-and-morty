@@ -1,0 +1,14 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.iconHeart {
+  width: 38px;
+  margin-left: 90%;
+  margin-top: -250%;
+}
