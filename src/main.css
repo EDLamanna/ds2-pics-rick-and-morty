@@ -2,10 +2,16 @@
 
 .gallery {
   display: flex;
+<<<<<<< HEAD
   justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
   gap:25px
+=======
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 30px;
+>>>>>>> e133f0b107159f21f011062868cccb9ef8737f53
 }
 
 .iconHeart {
